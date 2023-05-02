@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LendingPaolasBooks.BookModule.Book">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAEAAAAUAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BookModule\Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingPaolasBooks.BookModule.BookPresentation">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BookModule\BookPresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingPaolasBooks.BookModule.BookRepository">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BookModule\BookRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingPaolasBooks.FriendModule.Friend">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAQAAAAAAAAQAAAAAAAACAAAAIAAAAAA=</HashCode>
+      <FileName>FriendModule\Friend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingPaolasBooks.FriendModule.FriendPresentation">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FriendModule\FriendPresentation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingPaolasBooks.FriendModule.FriendRepository">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FriendModule\FriendRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingPaolasBooks.Shared.EntityBase">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Shared\EntityBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingPaolasBooks.Shared.PresentationBase">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAARAEAASDAAAAAAAABAAgAAEAAEACAABAAAABAAA=</HashCode>
+      <FileName>Shared\PresentationBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingPaolasBooks.Shared.RepositoryBase">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAEQEAAAAAAABAAAAAAgIBk=</HashCode>
+      <FileName>Shared\RepositoryBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LendingPaolasBooks.Program">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
